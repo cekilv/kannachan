@@ -12,7 +12,7 @@
 // • Rasel comel
 // • LeonGanz
 // • Xtreshe (Beban)
-// • Dll
+// • Akmal
 
 //[!] Jangan Dihapus, mending ditambahin 
 
@@ -52,24 +52,24 @@ global.sdc = 'https://chat.whatsapp.com/CF4jm8T9FVx5MnD037B1nN'
 global.snh = 'https://chat.whatsapp.com/CF4jm8T9FVx5MnD037B1nN'
 
 /*============== PAYMENT ==============*/
-global.pdana = '089515023118'
-global.povo = '089515023118'
-global.pgopay = '089515023118'
-global.ppulsa = '0895413767627'
-global.ppulsa2 = '088991489057'
-global.psaweria = 'https://saweria.com/DonateBot'
+global.pdana = '081269734000'
+global.povo = '081269734000'
+global.pgopay = '081269734000'
+global.ppulsa = '081269734000'
+global.ppulsa2 = '081269734000'
+global.psaweria = 'https://saweria.com/Holer'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62895413767627'
-global.nomorown = '17242332244'
-global.namebot = 'CekilXD'
-global.nameown = 'CekilXD'
+global.nomorbot = '081269734000'
+global.nomorown = '081269734000'
+global.namebot = 'Kanna-Botz'
+global.nameown = 'Akmal'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['17242332244', 'Sewa Bot', true],
-  ['17242332244', 'Owner Gweh', true] //Ganti jd nomormu sama Namamu
+  ['081269734000', 'Sewa Bot', true],
+  ['081269734000', 'Owner Gweh', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -188,8 +188,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'Cekil-XD'
-global.stickauth = `By ©CekilXD`
+global.stickpack = 'Kanna-Botz'
+global.stickauth = `By ©Akmal`
 
 global.multiplier = 38 // The higher, The harder levelup
 
