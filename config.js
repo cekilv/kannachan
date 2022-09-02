@@ -1,5 +1,5 @@
-// S C R I P T  O R I  B Y  @BochilGaming 🔭
-// M A D E  B Y  Letta - Sama 🐰  
+// S C R I P T  O R I  B Y  @Akmal 🔭
+// M A D E  B Y  Akmal - San 🐰  
 // Credits, jangan dihapus atau diubah!
 
 // - - THANKS TO - -
