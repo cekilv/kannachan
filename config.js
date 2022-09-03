@@ -12,7 +12,7 @@
 // • Rasel comel
 // • LeonGanz
 // • Xtreshe (Beban)
-// • Dll
+// • Akmal
 
 //[!] Jangan Dihapus, mending ditambahin 
 
@@ -52,24 +52,24 @@ global.sdc = 'https://chat.whatsapp.com/CF4jm8T9FVx5MnD037B1nN'
 global.snh = 'https://chat.whatsapp.com/CF4jm8T9FVx5MnD037B1nN'
 
 /*============== PAYMENT ==============*/
-global.pdana = '089515023118'
-global.povo = '089515023118'
+global.pdana = '081269734000'
+global.povo = '081269734000'
 global.pgopay = '089515023118'
-global.ppulsa = '0895413767627'
-global.ppulsa2 = '088991489057'
-global.psaweria = 'https://saweria.com/DonateBot'
+global.ppulsa = '081269734000'
+global.ppulsa2 = '081269734000'
+global.psaweria = 'https://saweria.com/Holer'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62895413767627'
-global.nomorown = '17242332244'
-global.namebot = 'CekilXD'
-global.nameown = 'CekilXD'
+global.nomorbot = '6281269734000'
+global.nomorown = '081269734000'
+global.namebot = 'Botz•Akmal'
+global.nameown = 'AkmalXD'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['17242332244', 'Sewa Bot', true],
-  ['17242332244', 'Owner Gweh', true] //Ganti jd nomormu sama Namamu
+  ['081269734000', 'Sewa Bot', true],
+  ['081269734000', 'Owner Akmal', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -114,12 +114,12 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Cekil-XD 」' //Main Watermark
+global.wm = '                「 Akmal-Md 」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Cekil-XD ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Cekil-XD '
+global.wm3 = '⫹⫺ Akmal-Md '
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By CekilGanz`
+global.titlebot = `⫹⫺ WhatsApp Bot | By AkmalMd`
 global.author = '                「 Cekil - Xd  あ⁩ 」'
 
 
